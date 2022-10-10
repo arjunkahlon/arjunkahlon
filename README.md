@@ -2,7 +2,7 @@
 
 ## About Me
 
-My primary career goal is to improve as a developer with each contribution. I obtained my Computer Science degree from Oregon State University at the end of 2021 and recently graduated from an accelerated full-stack web development program, LearningFuze. I aspire to develop full-stack web-based applications and am adaptable to variety of languages, tools, and technologies. Feel free to reach out to me at arjunskahlon@gmail.com or through LinkedIn.
+My primary career goal is to improve as a developer with each contribution. I obtained my Computer Science degree from Oregon State University at the end of 2021 and recently graduated from an accelerated full-stack web development program, LearningFuze. I aspire to develop full-stack web-based applications and am adaptable to variety of languages, tools, and technologies. Feel free to reach out to me at arjunskahlon@gmail.com or through my LinkedIn linked below.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjunkahlon&theme=dark&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 

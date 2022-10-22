@@ -6,10 +6,11 @@ My primary career goal is to improve as a developer with each contribution. I ob
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjunkahlon&theme=dark&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunkahlon&show_icons=true&locale=en&layout=compact&theme=dark" alt="arjunkahlon" /><br><br><br><br><br><br><br></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunkahlon&show_icons=true&locale=en&layout=compact&theme=dark" alt="arjunkahlon" /></p> 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=arjunkahlon&theme=darkhub&title=Commits,PullRequest,Issues,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+<p>
+<br><br><br><br><br><br><br>
+</p>
 
 
 

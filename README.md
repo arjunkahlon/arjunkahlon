@@ -30,7 +30,7 @@ My primary career goal is to improve as a developer with each contribution. I ob
 
 
 
-- 💻 Languages - JavaScript, HTML5, CSS3, Python, C++, C, SQL
+- 💻 Languages - JavaScript, TypeScript, HTML5, CSS3, Python, C++, C, SQL
 - 📚 Libraries/Frameworks - React, Node.js, Express.js, Flask
 - 🛠️ Tools - Git, GitHub, NPM, Webpack, Babel, Visual Studio Code, HTTPie, Figma, Docker
 - 📖 Currently Studying - TypeScript, Next.js, Gatsby

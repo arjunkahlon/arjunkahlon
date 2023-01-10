@@ -3,7 +3,7 @@
 
 ## About Me
 
-My primary career goal is to improve as a developer with each contribution. I obtained my Computer Science degree from Oregon State University at the end of 2021 and recently graduated from an accelerated full-stack web development program, LearningFuze where I am currently employed as a Teaching Assistant. I am adaptable to variety of languages, tools, and technologies. Feel free to reach out to me at arjunskahlon@gmail.com or through my LinkedIn linked below.
+My primary career goal is to improve as a developer with each contribution. I obtained my Computer Science degree from Oregon State University at the end of 2021 and recently graduated from an accelerated full-stack web development program, LearningFuze where I am currently employed as a Teaching Assistant. I am adaptable to variety of languages, tools, and technologies. Feel free to reach out to me at	contact@arjunkahlon.com or through my LinkedIn linked below.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjunkahlon&theme=dark&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -33,7 +33,7 @@ My primary career goal is to improve as a developer with each contribution. I ob
 - 💻 Languages - JavaScript (ES5/ES6), TypeScript, HTML5, CSS3, Python, SQL
 - 📚 Libraries/Frameworks - React, Node.js, Express.js, Flask, Bootstrap
 - 🛠️ Tools - Git, GitHub, NPM, Webpack, Babel, Visual Studio Code, HTTPie, Figma, Docker
-- 📖 Currently Studying - Next.js, Gatsby
+- 📖 Currently Studying - Next.js, React Native
 
 
 <h3 align="left">Languages and Tools:</h3>

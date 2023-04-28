@@ -18,8 +18,10 @@ My primary career goal is to improve as a developer with each contribution. I ob
 ## Stack
 
 
- ![react](https://user-images.githubusercontent.com/49361894/194735984-0088c501-2ea1-447b-922d-1947c60af3f2.svg)
+ ![typescript](https://user-images.githubusercontent.com/49361894/235083756-78ed8bd7-fb28-441a-9c40-962848a26745.svg)
  ![js](https://user-images.githubusercontent.com/49361894/194735990-a92a1544-6f6b-4ebf-9eb1-3148a1b69a7b.svg)
+ ![react](https://user-images.githubusercontent.com/49361894/194735984-0088c501-2ea1-447b-922d-1947c60af3f2.svg)
+ ![react-native](https://user-images.githubusercontent.com/49361894/235087985-ccd78a5f-0e11-422c-b0ef-590567036ad7.png)
  ![node](https://user-images.githubusercontent.com/49361894/194735997-ca439a7b-de9b-44fb-98df-de0e348c982d.svg)
  ![express](https://user-images.githubusercontent.com/49361894/194735999-9b43342d-522b-41a9-823d-318362c82aac.svg)
  ![html5](https://user-images.githubusercontent.com/49361894/194736004-a8430d19-7685-440b-bb59-58412591cb39.svg)
